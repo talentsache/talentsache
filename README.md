@@ -12,7 +12,7 @@
 ### 🦎 Currently Building
 
 <a href="https://github.com/skalesapp/skales">
-<img src="https://img.shields.io/badge/🦎_Skales-Open_Source_Local_AI_Agent-1DB954?style=for-the-badge&labelColor=0D1117" alt="Skales" />
+<img src="https://img.shields.io/badge/🦎_Skales-Local_AI_Agent-1DB954?style=for-the-badge&labelColor=0D1117" alt="Skales" />
 </a>
 
 **A native desktop AI agent for Windows & macOS.**
