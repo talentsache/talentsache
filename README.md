@@ -2,7 +2,7 @@
 
 # Hey, I'm Mario 🤙
 
-**Senior Marketing Manager · Vibecoder · Designer · Creative Mind**
+**Senior Marketing Manager · Designer · Creative Mind**
 
 *20+ years of tech - 10+ years of building digital products for companies like Wien Energie, Stadt Wien & the industrial sector.*
 *Now building AI tools that work for real people - not just developers.*
@@ -36,7 +36,7 @@ Download. Install. Done. No Docker. No Terminal. No cloud.
  Location    → Vienna, Austria 🇦🇹
  Background  → 10+ years Marketing, Design & Web Development
  Philosophy  → "Not an agent. A buddy."
- Approach    → Vibecoding - Design first, then build.
+ Approach  → Design first, then build.
  Focus       → Making AI accessible for everyone, not just devs.
 ```
 
