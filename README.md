@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/🦎_Skales-Local_AI_Agent-1DB954?style=for-the-badge&labelColor=0D1117" alt="Skales" />
 </a>
 
-**A native desktop AI agent for Windows & macOS.**
+**A native desktop AI agent for Windows, macOS & Linux.**
 Download. Install. Done. No Docker. No Terminal. No cloud.
 
-`11+ LLM Providers` · `ReAct Autopilot` · `🦁 Lio AI Code Builder` · `Skill AI` · `100% Local`
+`13+ LLM Providers` · `📅 Planner AI` · `🦁 Lio AI + FTP Deploy` · `🧠 Proactive Buddy` · `🌍 7 Languages`
 
 > *"The simplest autonomous AI agent in existence."*
 
@@ -33,11 +33,11 @@ Download. Install. Done. No Docker. No Terminal. No cloud.
 </div>
 
 ```
- Location    → Vienna, Austria 🇦🇹
- Background  → 10+ years Marketing, Design & Web Development
- Philosophy  → "Not an agent. A buddy."
- Approach  → Design first, then build.
- Focus       → Making AI accessible for everyone, not just devs.
+ Location    →   Vienna, Austria 🇦🇹
+ Background  →   10+ years Marketing, Design & Web Development
+ Philosophy  →   Philosophy  → "Not just an agent. Your desktop companion." 🦎💧🦦
+ Approach    →   Design first, then build.
+ Focus       →   Making AI accessible for everyone, not just devs.
 ```
 
 <div align="center">
