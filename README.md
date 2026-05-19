@@ -11,11 +11,15 @@ Vienna, Austria 🇦🇹
 ---
 
 <div align="center">
+
 <sub>My Projects:</sub>
-  <br> <br>
-  
+
+<br><br>
+
 ### Skales 🦎
+
 <br>
+
 <a href="https://github.com/skalesapp/skales">
   <img src="https://img.shields.io/badge/🦎_Skales-Local_first_AI_Desktop_Agent-10b981?style=for-the-badge&labelColor=0D1117" alt="Skales" />
 </a>
@@ -29,12 +33,12 @@ Download. Install. Done. No Docker. No terminal. No cloud lock-in.<br>
 [![Docs](https://img.shields.io/badge/Docs-docs.skales.app-0D1117?style=flat-square)](https://docs.skales.app)
 [![License](https://img.shields.io/badge/License-BSL_1.1-0D1117?style=flat-square)](https://github.com/skalesapp/skales/blob/main/LICENSE)
 
-</div
-  <br><br>
-  <div align="center">
+<br><br>
 
 ### AIPointer ⦿
+
 <br>
+
 <a href="https://github.com/gonemedia/aipointer">
   <img src="https://img.shields.io/badge/⦿_AIPointer-Floating_AI_Overlay-10b981?style=for-the-badge&labelColor=0D1117" alt="AIPointer" />
 </a>
@@ -43,11 +47,11 @@ Download. Install. Done. No Docker. No terminal. No cloud lock-in.<br>
 
 Hit a hotkey. Ask. Get an answer.<br>
 No tab. No app switch. No flow break.<br>
-4 LLM providers · macOS, Windows, Linux · MIT-licensed · single-shot Q&A · bounded tools
+4 LLM providers · macOS, Windows, Linux · BSL-1.1 source-available · single-shot Q&A · bounded tools
 
 [![Download](https://img.shields.io/badge/Download-aipointer.app-10b981?style=flat-square)](https://aipointer.app)
 [![Repo](https://img.shields.io/badge/Repo-github.com%2Fgonemedia-0D1117?style=flat-square)](https://github.com/gonemedia/aipointer)
-[![License](https://img.shields.io/badge/License-MIT-0D1117?style=flat-square)](https://github.com/gonemedia/aipointer/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-BSL_1.1-0D1117?style=flat-square)](https://github.com/gonemedia/aipointer/blob/main/LICENSE)
 
 </div>
 
@@ -69,7 +73,6 @@ Skales is what happens when someone who has watched real users struggle with bro
 
 `Electron` · `Next.js 14` · `TypeScript` · `Tailwind` · `Node.js` · `React Native` · `Figma`
 
-
 ---
 
 ### 🔗 Links
@@ -78,12 +81,12 @@ Skales is what happens when someone who has watched real users struggle with bro
 [![Skales](https://img.shields.io/badge/skales.app-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://skales.app)
 [![AIPointer](https://img.shields.io/badge/aipointer.app-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aipointer.app)
 
-**Reach me:** [dev@mariosimic.at](mailto:dev@mariosimic.at) 
+**Reach me:** [dev@mariosimic.at](mailto:dev@mariosimic.at)
 
 ---
 
 <div align="center">
 
-<sub> *Designer who codes. Marketer who builds. Founder who ships.*</sub>
+<sub>*Designer who codes. Marketer who builds. Founder who ships.*</sub>
 
 </div>
