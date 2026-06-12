@@ -59,7 +59,7 @@ No tab. No app switch. No flow break.<br>
 
 ### 🧬 About
 
-I'm not a CS-degree developer. I come from **marketing, design, and 10+ years of building things that actually work for real people**.
+I'm not a CS-degree developer. **I come from marketing, design, and 25 years of building things that actually work for real people — first website in 2001, at thirteen.**
 
 I spent a decade creating digital strategies, websites, and campaigns for clients like Wien Energie, Stadt Wien, and industrial-sector SMBs across Europe. Now I channel that same energy into making AI accessible to humans, not just developers.
 
