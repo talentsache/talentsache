@@ -14,7 +14,7 @@ Vienna, Austria 🇦🇹
 
 <sub>My Projects:</sub>
 
-<br><br>
+<br>
 
 ### Skales 🦎
 
@@ -62,6 +62,8 @@ No tab. No app switch. No flow break.<br>
 I'm not a CS-degree developer. **I come from marketing, design, and 25 years of building things that actually work for real people - first website in 2001, at thirteen.**
 
 I spent a decade creating digital strategies, websites, and campaigns for clients like Wien Energie, Stadt Wien, and industrial-sector SMBs across Europe. Now I channel that same energy into making AI accessible to humans, not just developers.
+
+<img width="1200" height="628" alt="og-image-2026" src="https://github.com/user-attachments/assets/a9386e36-7752-4f88-9c47-bbe5ced78d86" />
 
 Skales is what happens when someone who has watched real users struggle with broken software for a decade decides to build the agent THEY would actually use. Designed for grandmothers and grade-schoolers as much as for power users. Mainstream surface, power-user depth underneath. That's the moat.
 
