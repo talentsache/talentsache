@@ -24,10 +24,10 @@ Vienna, Austria 🇦🇹
   <img src="https://img.shields.io/badge/🦎_Skales-Local_first_AI_Desktop_Agent-10b981?style=for-the-badge&labelColor=0D1117" alt="Skales" />
 </a>
 
-**A native AI desktop agent for Windows, macOS, Linux & Android.**
+**A native AI agent for Windows, macOS, Linux, Android & iOS.**
 
 Download. Install. Done. No Docker. No terminal. No cloud lock-in.<br>
-15+ LLM providers · 12 languages · runs offline via Ollama · 30-second install
+15+ LLM providers · 180+ tools · 12 languages · runs offline via Ollama · 30-second install
 
 [![Download](https://img.shields.io/badge/Download-skales.app-10b981?style=flat-square)](https://skales.app)
 [![Docs](https://img.shields.io/badge/Docs-docs.skales.app-0D1117?style=flat-square)](https://docs.skales.app)
@@ -47,13 +47,24 @@ Download. Install. Done. No Docker. No terminal. No cloud lock-in.<br>
 
 Hit a hotkey. Ask. Get an answer.<br>
 No tab. No app switch. No flow break.<br>
-4 LLM providers · macOS, Windows, Linux · BSL-1.1 source-available · single-shot Q&A · bounded tools
+4 LLM providers · macOS, Windows, Linux · on-device voice in and out · BSL-1.1 source-available
 
 [![Download](https://img.shields.io/badge/Download-aipointer.app-10b981?style=flat-square)](https://aipointer.app)
 [![Repo](https://img.shields.io/badge/Repo-github.com%2Fgonemedia-0D1117?style=flat-square)](https://github.com/gonemedia/aipointer)
 [![License](https://img.shields.io/badge/License-BSL_1.1-0D1117?style=flat-square)](https://github.com/gonemedia/aipointer/blob/main/LICENSE)
 
 </div>
+
+---
+
+### Also mine
+
+| Repo | What it is | License |
+|---|---|---|
+| [**skales/devkit**](https://github.com/skalesapp/devkit) | CLI, REST API docs, Agent Skills, MCP guides | MIT |
+| [**skales/wordpress**](https://github.com/skalesapp/wordpress) | Connector plugin — run a WordPress site by conversation | MIT |
+| [**llm-profiles**](https://github.com/gonemedia/llm-profiles) | Per-model tuning so weaker models stop fumbling tool calls | MIT |
+| [**api-connectors**](https://github.com/gonemedia/api-connectors) | Keyless templates that point an agent at any REST API | MIT |
 
 ---
 
