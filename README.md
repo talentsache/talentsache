@@ -47,7 +47,7 @@ Download. Install. Done. No Docker. No terminal. No cloud lock-in.<br>
 
 Hit a hotkey. Ask. Get an answer.<br>
 No tab. No app switch. No flow break.<br>
-4 LLM providers · macOS, Windows, Linux · on-device voice in and out · BSL-1.1 source-available
+4 LLM providers · macOS, Windows, Linux · on-device voice in and out · BSL-1.1 licensed
 
 [![Download](https://img.shields.io/badge/Download-aipointer.app-10b981?style=flat-square)](https://aipointer.app)
 [![Repo](https://img.shields.io/badge/Repo-github.com%2Fgonemedia-0D1117?style=flat-square)](https://github.com/gonemedia/aipointer)
