@@ -31,7 +31,8 @@ Download. Install. Done. No Docker. No terminal. No cloud lock-in.<br>
 
 [![Download](https://img.shields.io/badge/Download-skales.app-10b981?style=flat-square)](https://skales.app)
 [![Docs](https://img.shields.io/badge/Docs-docs.skales.app-0D1117?style=flat-square)](https://docs.skales.app)
-[![License](https://img.shields.io/badge/License-BSL_1.1-0D1117?style=flat-square)](https://github.com/skalesapp/skales/blob/main/LICENSE)
+[![Latest release](https://img.shields.io/badge/Latest_release-GitHub-0D1117?style=flat-square)](https://github.com/skalesapp/skales/releases/latest)
+[![License](https://img.shields.io/badge/License-Skales_EULA-0D1117?style=flat-square)](https://skales.app/licence)
 
 <br><br>
 
